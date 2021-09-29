@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jefhui
 - 👀 I’m interested in Data Analytic/Data Science
-- 🌱 I’m currently a MSc in Big Data Technology in Hong Kong
+- 🌱 I’m currently a MSc in Big Data Technology in Hong Kong, graduating in 2022
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me huijeffhoyin@gmail.com
 
